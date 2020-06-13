@@ -1,2 +1,2 @@
 # lqw
-#画图图
+＃get and print the  strain - stress in a uniaxial tensile test of biological material
